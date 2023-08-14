@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luka Shatirishvili</h1>
+<h2 align="center">Hi 👋, I'm Luka Shatirishvili</h2>
 <h3 align="center">Highly motivated Junior Web Developer</h3>
 
 - 🔭 I’m currently working on **My first Project**
 
-- 🌱 I’m currently learning **DOM Manipulation**
+- 🌱 I’m currently learning **Javascript, DOM Manipulation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
