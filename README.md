@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Luka Shatirishvili</h2>
-<h3 align="center">Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript, and Node.js</h3>
+<h3 align="center">Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript</h3>
 
 - 🔭 I’m currently working on **My first Project**
 
