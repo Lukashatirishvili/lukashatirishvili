@@ -3,7 +3,7 @@ Hi 👋, I'm Luka Shatirishvili
 
 ### Highly motivated Junior Web Developer with experience in HTML, CSS and JavaScript
 
-- 🔭 I’m currently working on **My first Project**
+- 🔭 My first Project - <a href="https://lukashatirishvili.github.io/Webapp/"> Todolist </a>
 
 - 🌱 I’m currently learning **Javascript, DOM Manipulation**
 
