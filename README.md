@@ -5,7 +5,7 @@ Hi 👋, I'm Luka Shatirishvili
 
 - 🔭 My first Project - <a href="https://lukashatirishvili.github.io/Webapp/"> Todolist </a>
 
-- 🌱 I’m currently learning **Javascript, DOM Manipulation**
+- 🌱 I’m currently learning **React js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
