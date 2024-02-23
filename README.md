@@ -1,7 +1,7 @@
 Hi 👋, I'm Luka Shatirishvili
 -----------------------------
 
-### Highly motivated Junior Web Developer with experience in HTML, CSS, JavaScript and React
+### Highly motivated Junior Front-End Developer with experience in HTML, CSS, JavaScript and React
 
 - 🔭 My first Project - <a href="https://lukashatirishvili.github.io/Todos/"> Todolist </a>
 
