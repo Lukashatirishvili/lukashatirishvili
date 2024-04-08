@@ -9,6 +9,8 @@ Hi 👋, I'm Luka Shatirishvili
 
 2. **🍿 usePopcorn:** Another exciting project of mine, usePopcorn allows you to search for your favorite movies and create your personalized watchlist. Check it out [here](https://usepopcorn-app-five.vercel.app/)!
 
+3. 🍕 Pizza App: A ReactJS project showcasing proficiency in front-end development. Leveraged React Router for seamless navigation, Tailwind CSS for sleek UI design, and RTK for efficient state management. Check it out [here](https://orderpizza-app.vercel.app)!
+
 
 
 <h3 align="left">Languages and Tools:</h3>
